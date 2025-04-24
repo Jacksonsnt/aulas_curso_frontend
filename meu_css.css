@@ -1,0 +1,31 @@
+.classeTagParagrafo{
+    color: rgb(3, 109, 109);
+    text-align: center;
+    border: 2px solid  blue;
+    margin-top: 100px;
+}
+
+body {
+background-color: lightblue;
+}
+
+h1 {
+color: white;
+ text-align: center;
+}
+
+p {
+ font-family: verdana;
+ font-size: 20px;
+ border: 2px solid black;
+}
+#meuID {
+   font-family:verdana;
+   font-size:20px;
+   color: brown;
+   border: none;
+} 
+label{
+   color: rgb(83, 31, 167);
+   
+}
