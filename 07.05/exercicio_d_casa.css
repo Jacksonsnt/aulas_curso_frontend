@@ -1,0 +1,29 @@
+body{
+    background-color: rgb(59, 141, 212);
+    font-family: Verdana;
+  
+}
+img{
+    width: 200px;
+}
+div.card{
+    background-color: #ffffff;
+    padding: 20px 20px ;
+    width: 500px;
+    height: 400px;
+    margin: 50px auto;
+    text-align: center;
+    border-radius: 25px;
+    box-shadow:3px 3px 0px black;
+}
+p{
+    color: grey;
+    font-size: 20px;
+}
+a{
+    text-decoration:none ;
+    margin-right:15px;
+    font-weight: bold;
+    color: rgb(15, 160, 75);
+    font-size: 20px;
+}
